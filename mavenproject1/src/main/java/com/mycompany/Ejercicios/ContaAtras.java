@@ -2,7 +2,7 @@ package com.mycompany.Ejercicios;
 /**
  * Hacer una cuenta atrás desde el 10 al 0.
  * @version 1.0
- * @author Piero López Rosas
+ * @author Piero López Rosas no
  */
 public class ContaAtras {
     public static void main (String[] args){
